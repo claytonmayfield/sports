@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Assigment3-1",
+    "\\Assigment3-1\\Assigment3-1",
+    "\\Assigment3-1\\Assigment3-1\\Controllers",
+    "\\Assigment3-1\\Assigment3-1\\Migrations",
+    "\\Assigment3-1\\Assigment3-1\\Models",
+    "\\Assigment3-1\\Assigment3-1\\Views",
+    "\\Assigment3-1\\Assigment3-1\\Views\\Home",
+    "\\Assigment3-1\\Assigment3-1\\Views\\Product",
+    "\\Assigment3-1\\Assigment3-1\\Views\\Shared"
+  ],
+  "SelectedNode": "\\Assigment3-1\\Assigment3-1\\Views\\Product\\List.cshtml",
+  "PreviewInSolutionExplorer": false
+}
